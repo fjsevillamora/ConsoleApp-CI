@@ -5,3 +5,4 @@ C:\source\repos\ConsoleApp-CI\obj\Debug\ConsoleApp-CI.exe
 C:\source\repos\ConsoleApp-CI\obj\Debug\ConsoleApp-CI.pdb
 C:\source\repos\ConsoleApp-CI\obj\Debug\ConsoleApp-CI.csproj.AssemblyReference.cache
 C:\source\repos\ConsoleApp-CI\obj\Debug\ConsoleApp-CI.csproj.CoreCompileInputs.cache
+C:\source\repos\ConsoleApp-CI\obj\Debug\ConsoleApp-CI.csprojResolveAssemblyReference.cache

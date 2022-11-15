@@ -6,8 +6,8 @@ namespace ConsoleApp_CI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Demo .NET Framework 4.6.1 Testing")
-            Console.ReadLine();
+            Console.WriteLine("Demo .NET Framework 4.6.1 Testing");
+            Console.ReadLine()
         }
     }
 }
